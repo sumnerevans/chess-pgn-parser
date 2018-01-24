@@ -1,0 +1,7 @@
+[package]
+name = "chess_pgn_parser"
+version = "0.1.0"
+authors = ["Sumner Evans <sumner.evans98@gmail.com>"]
+
+[dependencies]
+chrono = "0.4"
