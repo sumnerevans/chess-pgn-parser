@@ -1,0 +1,13 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.02.18"]
+[White "jsve"]
+[Black "teilha"]
+[WhiteElo "1126"]
+[BlackElo "1065"]
+[TimeControl "300"]
+[Termination "game_result.won_by_checkmate"]
+[Result "1-0"]
+[CurrentPosition "r1q2rk1/pppbN1b1/n2p2P1/3P2P1/2P1Pp2/1P3B2/P3K3/3Q3R b - - 4 24"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.e4 d6 6.Bd3 Re8 7.b3 e5 8.d5 Bd7 9.h4 Ng4 10.Ng5 h6 11.f3 Nf6 12.Nxf7 Qc8 13.Nxh6+ Kh7 14.g4 Rf8 15.g5 Nh5 16.Be2 Na6 17.f4 Nxf4 18.Bxf4 exf4 19.Bf3 Bxc3+ 20.Ke2 Bxa1 21.h5 Bg7 22.hxg6+ Kh8 23.Nf5+ Kg8 24.Ne7#  1-0

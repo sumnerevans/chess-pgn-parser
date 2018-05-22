@@ -1,3 +1,3 @@
 extern crate chrono;
-
-pub mod game;
+extern crate regex;
+extern crate chess;

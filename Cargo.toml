@@ -5,3 +5,5 @@ authors = ["Sumner Evans <sumner.evans98@gmail.com>"]
 
 [dependencies]
 chrono = "0.4"
+regex = "0.2"
+chess = "0.4.2"

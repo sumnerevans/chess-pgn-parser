@@ -4,8 +4,6 @@ PGN Parser written in Rust
 ## Features
 The goal is to implement all sections of the [PGN
 Spec](https://www.chessclub.com/user/help/pgn-spec)
-- [ ] Multiple people are allowed to play a single color. (This would be the
-  case in a consultation game.) The names are separated by ":"s.
 - [ ] Full Seven-Tag Roster (STR) is implemented
   - [ ] Site tag allows you to specify the country using IOC (International
     Olympic Committee) three letter names when possible (15)
