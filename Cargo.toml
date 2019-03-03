@@ -1,9 +1,8 @@
 [package]
-name = "chess_pgn_parser"
+name = "chess"
 version = "0.1.0"
 authors = ["Sumner Evans <sumner.evans98@gmail.com>"]
 
 [dependencies]
 chrono = "0.4"
 regex = "0.2"
-chess = "0.4.2"

@@ -1,5 +1,8 @@
-# chess-pgn-parser
-PGN Parser written in Rust
+rust-chess: A pure Rust chess library
+=====================================
+
+rust-chess is a pure Rust chess library with move generation, move validation
+and support for common formats.
 
 ## Features
 The goal is to implement all sections of the [PGN
@@ -68,5 +71,14 @@ Spec](https://www.chessclub.com/user/help/pgn-spec)
 - [ ] Support for importing files with alternative piece letters, but not
   exporting (17)
 
-## Previous Work
+Previous Work
+-------------
+
 - [`chess_pgn_parser`](https://github.com/hwiechers/chess_pgn_parser/)
+
+Prior Work
+----------
+
+Inspired by `python-chess`_.
+
+.. _python-chess: https://github.com/niklasf/python-chess
